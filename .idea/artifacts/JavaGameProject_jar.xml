@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaGameProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaGameProject_jar</output-path>
+    <root id="archive" name="JavaGameProject.jar">
+      <element id="module-output" name="JavaGameProject" />
+      <element id="library" level="project" name="resources" />
+    </root>
+  </artifact>
+</component>
